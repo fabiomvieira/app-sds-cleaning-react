@@ -1,0 +1,20 @@
+@use './vars';
+
+@mixin btn {
+  padding: 15px 40px;
+  color: vars.$white;
+  border-radius: 0px;
+  font-size: 14px;
+  font-weight: 300;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-family: vars.$font-1;
+  text-decoration: none;
+  background-color: vars.$color-1;
+  transition: vars.$transition-1;
+
+  &:hover {
+    background-color: vars.$color-2;
+  }
+}

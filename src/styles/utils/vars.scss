@@ -1,0 +1,39 @@
+// COLORS
+$black: #000000;
+$white: #ffffff;
+$color-1: #004988;
+$color-2: #376f9f;
+$gray-1: #f0f0f0;
+$gray-2: #777777;
+$color-warning: #dbb005;
+$color-error: #d50606;
+$color-success: #229617;
+
+// TRANSITIONS
+$transition-1: 0.3s all ease-in-out;
+
+// SHADOWS
+$shadow-1: 0px 0px 10px rgba(0, 0, 0, 0.2);
+
+// FONTS
+$font-1: "Montserrat", sans-serif;
+$font-2: "Epilogue", sans-serif;
+
+// BREAKPOINTS
+$sm: 'min-width: 576px';
+$md: 'min-width: 768px';
+$lg: 'min-width: 992px';
+$xl: 'min-width: 1200px';
+
+// ANIMATIONS
+@keyframes fadeIn {
+  0% {
+    opacity: 0%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
+
+// PATH
+$url-path: '../../static/'

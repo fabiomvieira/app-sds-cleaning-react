@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="10 10 280 280">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #NaNNaNNaN;
+        stroke-width: 0;
+        stroke-dasharray: 0.001 0 0 0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Retângulo_1" data-name="Retângulo 1" class="cls-1" d="M50.343,53.038l5.006-4.893a5,5,0,0,1,7.071.081L249.738,239.892a5,5,0,0,1-.081,7.07l-5.006,4.893a5,5,0,0,1-7.07-.081L50.262,60.109A5,5,0,0,1,50.343,53.038Z"/>
+  <path id="Retângulo_1_copiar" data-name="Retângulo 1 copiar" class="cls-1" d="M50.343,246.962l5.006,4.893a5,5,0,0,0,7.071-.081L249.738,60.109a5,5,0,0,0-.081-7.071l-5.006-4.893a5,5,0,0,0-7.07.081L50.262,239.892A5,5,0,0,0,50.343,246.962Z"/>
+</svg>

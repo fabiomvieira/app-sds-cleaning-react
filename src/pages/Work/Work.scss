@@ -1,0 +1,43 @@
+@use '../../styles/utils/vars';
+
+.our-work-page {
+  &__content {
+    padding: 70px 20px;
+    background-color: vars.$white;
+
+    &-2 {
+      background-color: vars.$gray-1;
+    }
+
+    @media (vars.$xl) {
+      padding: 70px 0px;
+    }
+
+    &__title {
+      font-size: 44px;
+      font-family: vars.$font-1;
+      font-weight: 400;
+      color: vars.$black;
+      margin-bottom: 20px;
+
+      span {
+        font-weight: 500;
+        color: vars.$color-1;
+      }
+    }
+
+    &__text {
+      color: vars.$black;
+      font-size: 18px;
+      font-weight: 300;
+      line-height: 1.5;
+      font-family: vars.$font-2;
+      margin-bottom: 20px;
+      width: 100%;
+      
+      @media (vars.$xl) {
+        width: 80%;
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="15.688" y="23" width="267.75" height="254.625" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#004988"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Polígono_3" data-name="Polígono 3" class="cls-1" d="M149.562,23l33.469,94.691,100.407,2.567-79.722,61.089L232.3,277.625l-82.74-56.936L66.823,277.625l28.586-96.278L15.688,120.258l100.407-2.567Z"/>
+</svg>
